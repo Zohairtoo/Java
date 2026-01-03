@@ -56,12 +56,13 @@ management:
 
 info:
   app:
-    name: "account"
+    name: "cards"
     description: "Bank cards application"
     version: "1.0.0"
 
 build:
   version: 1.0.0-cards
+
 logging:
   level:
     com:

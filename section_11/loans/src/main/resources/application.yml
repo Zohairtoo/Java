@@ -55,7 +55,7 @@ management:
 
 info:
   app:
-    name: "account"
+    name: "loans"
     description: "Bank loans application"
     version: "1.0.0"
 
