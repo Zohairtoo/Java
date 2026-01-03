@@ -59,6 +59,9 @@ info:
     description: "Bank loans application"
     version: "1.0.0"
 
+build:
+  version: 1.0.0-loans
+
 logging:
   level:
     com:

@@ -63,6 +63,8 @@ info:
     name: "account"
     description: "Bank account application"
     version: "1.0.0"
+build:
+  version: 1.0.0-accounts
 
 logging:
   level:
